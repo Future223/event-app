@@ -1,0 +1,6 @@
+{
+	"appId": "com.eventapp.app",
+	"appName": "EventApp",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
